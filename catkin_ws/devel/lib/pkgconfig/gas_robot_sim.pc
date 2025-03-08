@@ -1,0 +1,8 @@
+prefix=/workspaces/ros-az/catkin_ws/devel
+
+Name: gas_robot_sim
+Description: Description of gas_robot_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
