@@ -1,2 +1,2 @@
-gas_robot_sim:gas_source_localization
+gas_robot_sim
 -DCATKIN_DEVEL_PREFIX=/workspaces/ros-az/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/workspaces/ros-az/catkin_ws/install -G Unix Makefiles

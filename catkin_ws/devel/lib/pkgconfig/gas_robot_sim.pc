@@ -3,6 +3,6 @@ prefix=/workspaces/ros-az/catkin_ws/devel
 Name: gas_robot_sim
 Description: Description of gas_robot_sim
 Version: 0.0.0
-Cflags: 
+Cflags: -I/workspaces/ros-az/catkin_ws/devel/include
 Libs: -L${prefix}/lib 
-Requires: 
+Requires: rospy std_msgs message_runtime
